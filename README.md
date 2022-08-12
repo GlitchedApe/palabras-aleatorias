@@ -1,5 +1,5 @@
 # palabras-aleatorias
 
-Generador de palabras aleatorias entre 158 palabras.
+Generador de palabras aleatorias entre 201 palabras.
 
-Random word generator with 158 words in spanish.
+Random word generator with 201 words in spanish.
